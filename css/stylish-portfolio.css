@@ -183,6 +183,10 @@ hr.small {
     margin-bottom: 30px;
 }
 
+.bg-brown {
+    background: #BC9265;
+}
+
 /* Callout */
 
 .callout {
